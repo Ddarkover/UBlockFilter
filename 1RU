@@ -3,14 +3,14 @@
 ! Homepage: https://github.com/Ddarkover/filter
 !
 !
-(HDREZKA)
+!(HDREZKA)
 ###vk_groups + div[style]
 ##.b-content__main > div[style][id]:not([class]):empty
 ##.b-player a[href*="aHR0c"]
 ##.b-post__mixedtext + div[style]
 ##.b-seriesupdate__block_list_item[data-url=""]
 ##div[style="height: 200px;"]
-(Аниме)
+!(Аниме)
 /counter$redirect-rule=empty,domain=aniboom.one
 *$redirect-rule=empty,domain=kodik.info|aniqit.com|alloeclub.com|hdrezka55hyyt.net|hdrezkazxc.org|yummyanime.*|freekinopoisk.online|uboost.one|videocdnmetrika.com|vb17121coramclean.pw|animego.org|aniboom.one
 dsp-eu.surfy.dev
@@ -19,7 +19,7 @@ ad.qvol.ru
 ||telegram.org/img/t_logo.png$image
 ||aniu.ru/assets/images/footer.png$image
 aniu.ru###telegram > div
-(Прочее)
+!(Прочее)
 html5play.ru##.sgpb-popup-overlay.sgpb-popup-overlay-1659.sgpb-theme-2-overlay
 html5play.ru##.sgpb-popup-dialog-main-div-wrapper
 repack.me##div.alert[style="margin: 0px 0px 5px 0px; padding: 5px 10px; border:solid 1px #d8d8d8; font-weight: bold;"]
