@@ -10,6 +10,7 @@
 ##.b-post__mixedtext + div[style]
 ##.b-seriesupdate__block_list_item[data-url=""]
 ##div[style="height: 200px;"]
+net,org#?#body:not(#id):style(padding-top: 0 !important)
 !
 !(Аниме)
 /counter$redirect-rule=empty,domain=aniboom.one
