@@ -10,6 +10,7 @@
 ##.b-post__mixedtext + div[style]
 ##.b-seriesupdate__block_list_item[data-url=""]
 ##div[style="height: 200px;"]
+!
 !(Аниме)
 /counter$redirect-rule=empty,domain=aniboom.one
 *$redirect-rule=empty,domain=kodik.info|aniqit.com|alloeclub.com|hdrezka55hyyt.net|hdrezkazxc.org|yummyanime.*|freekinopoisk.online|uboost.one|videocdnmetrika.com|vb17121coramclean.pw|animego.org|aniboom.one
@@ -19,6 +20,7 @@ ad.qvol.ru
 ||telegram.org/img/t_logo.png$image
 ||aniu.ru/assets/images/footer.png$image
 aniu.ru###telegram > div
+!
 !(Прочее)
 html5play.ru##.sgpb-popup-overlay.sgpb-popup-overlay-1659.sgpb-theme-2-overlay
 html5play.ru##.sgpb-popup-dialog-main-div-wrapper
