@@ -20,7 +20,7 @@ ad.qvol.ru
 /t_logo.png$domain=aniu.ru
 aniu.ru###telegram
 /images/*Dota2*.jpg
-###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
+anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
 animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
 v2.vost.pw###dle-content > div.disc-anime.playerInfo:first-child > div.contInfo:nth-child(3) > div.playerAnime:first-child > div:nth-child(3)[style="background: #3cea39; border-top: 1px solid #18d11d; text-align: center; padding: 16px; margin-top: 7px; border-bottom: 1px solid #18d11d;"]
 v2.vost.pw###content > div:first-child[style="background: #39afea; border: 1px solid #2170d3; text-align: center; padding: 16px; width: 296px; margin: 0 auto; margin-top: 10px;"]
