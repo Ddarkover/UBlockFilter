@@ -23,6 +23,7 @@ aniu.ru###telegram
 anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
 animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
 animego.space##div.wrapper:style(top: 0 !important)
+animego.cc##.wrap:style(padding-top: 0px !important; margin-top: unset !important)
 /teleg*.png$domain=animego.space
 ##div.telegr
 ! (Мобильный фильтр)
