@@ -21,6 +21,7 @@ anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !imp
 animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
 animego.space##div.wrapper:style(top: 0 !important)
 animego.cc##.wrap:style(padding-top: 0px !important; margin-top: unset !important)
+anidub.*###dle-content > article.article.ignore-select:first-child > div.sect:first-child
 aniu.ru###telegram
 ##div.telegr
 ! (Мобильный фильтр)
