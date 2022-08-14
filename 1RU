@@ -39,6 +39,7 @@ repack.me##div.alert[style="margin: 0px 0px 5px 0px; padding: 5px 10px; border:s
 ip.osnova.news##div.w-100.my-4
 megafonpro.ru##div[data-error-code="403"]
 megafonpro.ru##.v.tu.m
+levardo.com##div:last-child > div[style="z-index: 2147483647; position: fixed; top: 0; bottom: 0; left: 0; right: 0;background: rgba(0,0,0,.70)!important;backface-visibility: hidden;-webkit-backface-visibility: hidden;text-align: left;"]
 ##.telegram__wraper
 ! (Исправления)
 @@/advt.$domain=freevpn4you.net
