@@ -10,26 +10,65 @@
 ##div[style="height: 200px;"]
 net,org#?#body:not(#id):style(padding-top: 0 !important)
 !(Аниме)
-dsp-eu.surfy.dev
-ad.qvol.ru
+! (aniu.ru)
 /assets/images/footer.png$domain=aniu.ru
 /vk.png$domain=aniu.ru
 /t_logo.png$domain=aniu.ru
-/teleg*.png$domain=animego.space
-/images/*Dota2*.jpg
-anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
-animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
-animego.space##div.wrapper:style(top: 0 !important)
-animego.cc##.wrap:style(padding-top: 0px !important; margin-top: unset !important)
-anidub.*###dle-content > article.article.ignore-select:first-child > div.sect:first-child
 aniu.ru###telegram
+! (animego.space)
+/teleg*.png$domain=animego.space
+animego.space##div.wrapper:style(top: 0 !important)
+! (animego.online)
+animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
+! (animego.cc)
+animego.cc##.wrap:style(padding-top: 0px !important; margin-top: unset !important)
+! (anidub.)
+anidub.*###dle-content > article.article.ignore-select:first-child > div.sect:first-child
+!(anistar.su)
+anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
 ##div.telegr
+! (Animestar)
+/images/*Dota2*.jpg
+/*banner*.php$domain=astar.bz
+/jwpsrv.js|$script,domain=astar.bz
+/images/1x_b1
+astar.bz###dle-content > .news:has(> .news_text :not(.text_spoiler) > a:not([href^="/"]):not([href*="anistar.org/"]):not([href*="anistar.pro/"]):not([href*="anistar.world/"]):not([href*="online-star.org/"]):not([href*="online-stars.org/"]))
+astar.bz###dle-content > div.news:has(> div.news_header > div.title_left > a[href]:has-text(/(Betchaser|казино)|хентай игру|спонсоров|^БЕСПЛАТНОЕ ОБСЛУЖИВАНИЕ КАРТЫ|\sИГРУ\s|\sодежду\s/))
+astar.bz##.a-message
+astar.bz##.content-left > .head-body > div[class*="deo"]
+astar.bz##.content-pravo > .news-list ~ div[class^="center"]
+astar.bz##.content-pravo > .news-list:has(#vk_groups)
+astar.bz##.content-pravo > div.news-list:has(> div.title-3 > span:has-text(Мы ВКонтакте))
+astar.bz##.drowmenu:style(z-index: 1999999999 !important)
+astar.bz##.list-nav:style(z-index: 1 !important)
+astar.bz##.right-panel-bottom > .favorites ~ span
+astar.bz##.video_reka:style(visibility: hidden !important;)
+astar.bz##.vk-top
+astar.bz##[href*="://r.advg.agency/"]
+astar.bz##a[href*="://litmarket.ru/"]
+astar.bz##a[href^="https://litmarket.ru/"][target="_blank"]
+astar.bz##a[href^="https://r.advg.agency/"]
+astar.bz##a[onclick^="if(typeof yaCounter"]
+astar.bz##body > .main.wrapper:style(margin-top: 0 !important)
+astar.bz##body > header:style(top: 0 !important)
+astar.bz##div[id^="TTwitch_remove"]
+astar.bz##html > body:not(#id):style(background-image: none !important)
+astar.bz##iframe[src*="banner"]
+astar.bz##iframe[src="/info_banners.php"]
+astar.bz##iframe[src^="/banners"]
+astar.bz##.newclasswqasdvsdv
+astar.bz##.donat
+astar.bz##div[id^="videoroll"]
+astar.bz##.share-soc
+@@||astar.bz^$generichide
 ! (Мобильный фильтр)
 v2.vost.pw###dle-content > div.disc-anime.playerInfo:first-child > div.contInfo:nth-child(3) > div.playerAnime:first-child > div:nth-child(3)[style="background: #3cea39; border-top: 1px solid #18d11d; text-align: center; padding: 16px; margin-top: 7px; border-bottom: 1px solid #18d11d;"]
 v2.vost.pw###content > div:first-child[style="background: #39afea; border: 1px solid #2170d3; text-align: center; padding: 16px; width: 296px; margin: 0 auto; margin-top: 10px;"]
 v2.vost.pw###dle-content > div:nth-child(2)[style="width: 330px; margin: 0 auto; margin-top: 10px; border: 1px solid #e7a901;"]
 !(Прочее)
 iprxfx.com
+dsp-eu.surfy.dev
+ad.qvol.ru
 /hidemyname_001.png$domain=osnova.news
 /rkn_shown?serviceid$domain=megafonpro.ru
 /telegram.svg$image
