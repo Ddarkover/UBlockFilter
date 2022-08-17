@@ -30,6 +30,10 @@ anidub.*###dle-content > article.article.ignore-select:first-child > div.sect:fi
 !(anistar.su)
 anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
 ##div.telegr
+! (anime-bit.ru)
+anime-bit.ru##div#ad_player_top.flex
+! (ururuanime.online)
+ururuanime.online##div.main-wrap> div.container > div.content > div.share-block-wrap
 ! (Animestar)
 /images/*Dota2*.jpg
 /*banner*.php$domain=astar.bz
@@ -77,6 +81,7 @@ ad.qvol.ru
 /hidemyname_001.png$domain=osnova.news
 /rkn_shown?serviceid$domain=megafonpro.ru
 /telegram.svg$image
+iss.bond/img/other/a*.jpg
 html5play.ru##.sgpb-popup-overlay.sgpb-popup-overlay
 html5play.ru##.sgpb-popup-dialog-main-div-wrapper
 repack.me##div.alert[style="margin: 0px 0px 5px 0px; padding: 5px 10px; border:solid 1px #d8d8d8; font-weight: bold;"]
