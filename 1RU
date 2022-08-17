@@ -2,13 +2,16 @@
 ! Description: Filters optimized for uBlock
 ! Homepage: https://github.com/Ddarkover/UBlockFilter
 !(HDREZKA)
-###vk_groups + div[style]
-##.b-content__main > div[style][id]:not([class]):empty
-##.b-player a[href*="aHR0c"]
-##.b-post__mixedtext + div[style]
-##.b-seriesupdate__block_list_item[data-url=""]
-##div[style="height: 200px;"]
-net,org#?#body:not(#id):style(padding-top: 0 !important)
+org,net###vk_groups + div[style]
+org,net##.b-content__main > div[style][id]:not([class]):empty
+org,net##.b-player a[href*="aHR0c"]
+org,net##.b-post__mixedtext + div[style]
+org,net##.b-post__social_holder > div
+org,net##.b-tophead__subscribe-dropdown
+org,net##body:not(#id):style(padding-top: 0 !important)
+org,net##body:not(#id):style(background-image: none !important)
+org,net##html:not(#id):style(background-image: none !important)
+org,net##html:not(#id):style(padding-top: 0 !important)
 !(Аниме)
 ! (aniu.ru)
 /assets/images/footer.png$domain=aniu.ru
