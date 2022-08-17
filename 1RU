@@ -13,13 +13,7 @@ org,net##body:not(#id):style(background-image: none !important)
 org,net##html:not(#id):style(background-image: none !important)
 org,net##html:not(#id):style(padding-top: 0 !important)
 !(Аниме)
-! (aniu.ru)
-/assets/images/footer.png$domain=aniu.ru
-/vk.png$domain=aniu.ru
-/t_logo.png$domain=aniu.ru
-aniu.ru###telegram
 ! (animego.space)
-/teleg*.png$domain=animego.space
 animego.space##div.wrapper:style(top: 0 !important)
 ! (animego.online)
 animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
@@ -29,7 +23,6 @@ animego.cc##.wrap:style(padding-top: 0px !important; margin-top: unset !importan
 anidub.*###dle-content > article.article.ignore-select:first-child > div.sect:first-child
 !(anistar.su)
 anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
-##div.telegr
 ! (anime-bit.ru)
 anime-bit.ru##div#ad_player_top.flex
 ! (ururuanime.online)
@@ -73,26 +66,36 @@ astar.bz##.share-soc
 v2.vost.pw###dle-content > div.disc-anime.playerInfo:first-child > div.contInfo:nth-child(3) > div.playerAnime:first-child > div:nth-child(3)[style="background: #3cea39; border-top: 1px solid #18d11d; text-align: center; padding: 16px; margin-top: 7px; border-bottom: 1px solid #18d11d;"]
 v2.vost.pw###content > div:first-child[style="background: #39afea; border: 1px solid #2170d3; text-align: center; padding: 16px; width: 296px; margin: 0 auto; margin-top: 10px;"]
 v2.vost.pw###dle-content > div:nth-child(2)[style="width: 330px; margin: 0 auto; margin-top: 10px; border: 1px solid #e7a901;"]
-!(Прочее)
+! (Домены)
 iprxfx.com
 yt3.ggpht.com
 dsp-eu.surfy.dev
 ad.qvol.ru
-/hidemyname_001.png$domain=osnova.news
+! (megafonpro.ru)
 /rkn_shown?serviceid$domain=megafonpro.ru
-/telegram.svg$image
-iss.bond/img/other/a*.jpg
-html5play.ru##.sgpb-popup-overlay.sgpb-popup-overlay
-html5play.ru##.sgpb-popup-dialog-main-div-wrapper
-repack.me##div.alert[style="margin: 0px 0px 5px 0px; padding: 5px 10px; border:solid 1px #d8d8d8; font-weight: bold;"]
-ip.osnova.news##div.w-100.my-4
 megafonpro.ru##div[data-error-code="403"]
 megafonpro.ru##.v.tu.m
-levardo.com##div:last-child > div[style="z-index: 2147483647; position: fixed; top: 0; bottom: 0; left: 0; right: 0;background: rgba(0,0,0,.70)!important;backface-visibility: hidden;-webkit-backface-visibility: hidden;text-align: left;"]
-freeopenvpn.org##center:nth-child(9) > div > div:nth-child(2)[style="display: block; width: 336px; height: 620px; float: left;"]
+! (osnova.news)
+/hidemyname_001.png$domain=osnova.news
+ip.osnova.news##div.w-100.my-4
+! (html5play.ru)
+html5play.ru##.sgpb-popup-overlay.sgpb-popup-overlay
+html5play.ru##.sgpb-popup-dialog-main-div-wrapper
+! (Другие)
+repack.me##div.alert[style="margin: 0px 0px 5px 0px; padding: 5px 10px; border:solid 1px #d8d8d8; font-weight: bold;"]
+freeopenvpn.org##center> div > div[style="display: block; width: 336px; height: 620px; float: left;"]
 iplogger.org###cookies
 list-org.com##div.main > div.content > div.mt-1.wef1
+! (Соц.сети)
+/telegram.svg$image
+/assets/images/footer.png$domain=aniu.ru
+/teleg*.png$domain=animego.space
+/vk.png$domain=aniu.ru
+/t_logo.png$domain=aniu.ru
+iss.bond/img/other/a*.jpg
+aniu.ru###telegram
 ##.telegram__wraper
+##div.telegr
 ! (Исправления)
 @@/advt.$domain=freevpn4you.net
 freevpn4you.net#@##adbanner
