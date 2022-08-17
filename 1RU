@@ -32,6 +32,7 @@ anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !imp
 /*banner*.php$domain=astar.bz
 /jwpsrv.js|$script,domain=astar.bz
 /images/1x_b1
+/images/GAMERS_GALAXY
 astar.bz###dle-content > .news:has(> .news_text :not(.text_spoiler) > a:not([href^="/"]):not([href*="anistar.org/"]):not([href*="anistar.pro/"]):not([href*="anistar.world/"]):not([href*="online-star.org/"]):not([href*="online-stars.org/"]):not([href*="astar.bz/"]))
 astar.bz###dle-content > div.news:has(> div.news_header > div.title_left > a[href]:has-text(/(Betchaser|казино)|хентай игру|спонсоров|^БЕСПЛАТНОЕ ОБСЛУЖИВАНИЕ КАРТЫ|\sИГРУ\s|\sодежду\s/))
 astar.bz##.a-message
