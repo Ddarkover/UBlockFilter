@@ -86,6 +86,7 @@ megafonpro.ru##.v.tu.m
 levardo.com##div:last-child > div[style="z-index: 2147483647; position: fixed; top: 0; bottom: 0; left: 0; right: 0;background: rgba(0,0,0,.70)!important;backface-visibility: hidden;-webkit-backface-visibility: hidden;text-align: left;"]
 freeopenvpn.org##center:nth-child(9) > div > div:nth-child(2)[style="display: block; width: 336px; height: 620px; float: left;"]
 iplogger.org###cookies
+list-org.com##div.main > div.content > div.mt-1.wef1
 ##.telegram__wraper
 ! (Исправления)
 @@/advt.$domain=freevpn4you.net
