@@ -12,6 +12,11 @@ org,net##body:not(#id):style(padding-top: 0 !important)
 org,net##body:not(#id):style(background-image: none !important)
 org,net##html:not(#id):style(background-image: none !important)
 org,net##html:not(#id):style(padding-top: 0 !important)
+org,net##.b-content__main > div[id]:not([class]):empty
+org,net##a[style*="data:image"]
+org,net##div[style="height: 250px; overflow: hidden;"]
+org,net##+js(remove-class, active-brand, body)
+org,net##+js(set-constant, window.abc, false)
 !(Аниме)
 ! (animego.space)
 animego.space##div.wrapper:style(top: 0 !important)
