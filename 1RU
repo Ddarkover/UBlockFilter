@@ -18,20 +18,6 @@ org,net##div[style="height: 250px; overflow: hidden;"]
 org,net##+js(remove-class, active-brand, body)
 org,net##+js(set-constant, window.abc, false)
 !(Аниме)
-! (animego.space)
-animego.space##div.wrapper:style(top: 0 !important)
-! (animego.online)
-animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
-! (animego.cc)
-animego.cc##.wrap:style(padding-top: 0px !important; margin-top: unset !important)
-! (anidub.)
-anidub.*###dle-content > article.article.ignore-select:first-child > div.sect:first-child
-!(anistar.su)
-anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
-! (anime-bit.ru)
-anime-bit.ru##div#ad_player_top.flex
-! (ururuanime.online)
-ururuanime.online##div.main-wrap> div.container > div.content > div.share-block-wrap
 ! (Animestar)
 /images/*Dota2*.jpg
 /*banner*.php$domain=astar.bz
@@ -90,17 +76,17 @@ html5play.ru##.sgpb-popup-dialog-main-div-wrapper
 repack.me##div.alert[style="margin: 0px 0px 5px 0px; padding: 5px 10px; border:solid 1px #d8d8d8; font-weight: bold;"]
 freeopenvpn.org##center> div > div[style="display: block; width: 336px; height: 620px; float: left;"]
 iplogger.org###cookies
+animego.space##div.wrapper:style(top: 0 !important)
+ururuanime.online##div.main-wrap> div.container > div.content > div.share-block-wrap
 amedia.online###dle-content > article.film-wr > div.film-section-one.clearfix > div.film-right > div.full-text.film-desc.clearfix:style(min-height: 10px  !important)
+anime-bit.ru##div#ad_player_top.flex
+anistar.su###wr-bg.wr:style(padding-top: 60px !important; margin-top: unset !important)
+anidub.*###dle-content > article.article.ignore-select > div.sect
+animego.cc##.wrap:style(padding-top: 0px !important; margin-top: unset !important)
+animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset !important)
 kbmk.kurg.eduru.ru###disc-modal-view-event
 list-org.com##div.main > div.content > div.mt-1.wef1
 yandex.ru##.DistrPopup
-##a.insta[href*="https://www.instagram.com/"]
-##a.twit[href*="https://twitter.com/"]
-##a.telegram[href*="https://t.me/"]
-##a.twit[href*="http://twitter.com/"]
-##a.tiktok[href*="https://www.tiktok.com/"]
-##a.youtube[href*="https://www.youtube.com/"]
-###dle-content > article > div.short-item > div.f-mov-soc > a[href*="https://t.me/"]
 ! (Соц.сети)
 /telegram.svg$image
 /assets/images/footer.png$domain=aniu.ru
@@ -111,6 +97,13 @@ iss.bond/img/other/a*.jpg
 aniu.ru###telegram
 ##.telegram__wraper
 ##div.telegr
+##a.insta[href*="https://www.instagram.com/"]
+##a.twit[href*="https://twitter.com/"]
+##a.telegram[href*="https://t.me/"]
+##a.twit[href*="http://twitter.com/"]
+##a.tiktok[href*="https://www.tiktok.com/"]
+##a.youtube[href*="https://www.youtube.com/"]
+###dle-content > article > div.short-item > div.f-mov-soc > a[href*="https://t.me/"]
 ! (Исправления)
 @@/advt.$domain=freevpn4you.net
 freevpn4you.net#@##adbanner
