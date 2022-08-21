@@ -104,6 +104,8 @@ aniu.ru###telegram
 ##a.tiktok[href*="https://www.tiktok.com/"]
 ##a.youtube[href*="https://www.youtube.com/"]
 ###dle-content > article > div.short-item > div.f-mov-soc > a[href*="https://t.me/"]
+##div.social-network> div.social-items > a.item-icon[href*="https://twitter.com/"]
+##div.social-network> div.social-items > a.item-icon[href*="https://www.instagram.com/"]
 ! (Исправления)
 @@/advt.$domain=freevpn4you.net
 freevpn4you.net#@##adbanner
