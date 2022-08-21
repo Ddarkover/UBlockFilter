@@ -94,6 +94,10 @@ list-org.com##div.main > div.content > div.mt-1.wef1
 yandex.ru##.DistrPopup
 ##a.insta[href*="https://www.instagram.com/"]
 ##a.twit[href*="https://twitter.com/"]
+##a.telegram[href*="https://t.me/"]
+##a.twit[href*="http://twitter.com/"]
+##a.tiktok[href*="https://www.tiktok.com/"]
+##a.youtube[href*="https://www.youtube.com/"]
 ###dle-content > article > div.short-item > div.f-mov-soc > a[href*="https://t.me/"]
 ! (Соц.сети)
 /telegram.svg$image
