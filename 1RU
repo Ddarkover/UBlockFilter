@@ -26,7 +26,7 @@ org,net##+js(set-constant, window.abc, false)
 /images/1x_b1$domain=bz|org
 /images/GAMERS_GALAXY
 astar.bz###dle-content > .news:has(> .news_text :not(.text_spoiler) > a:not([href^="/"]):not([href*="anistar.org/"]):not([href*="anistar.pro/"]):not([href*="anistar.world/"]):not([href*="online-star.org/"]):not([href*="online-stars.org/"]):not([href*="astar.bz/"]))
-astar.bz###dle-content > div.news:has(> div.news_header > div.title_left > a[href]:has-text(/(Betchaser|казино)|хентай игру|спонсоров|^БЕСПЛАТНОЕ ОБСЛУЖИВАНИЕ КАРТЫ|\sИГРУ\s|\sодежду\s|\sшутер\s|\sигра\s/))
+astar.bz###dle-content > div.news:has(> div.news_header > div.title_left > a[href]:has-text(/(Betchaser|казино)|хентай игру|спонсоров|^БЕСПЛАТНОЕ ОБСЛУЖИВАНИЕ КАРТЫ|\sИГРУ\s|\sодежду\s|\sшутер\s|\sигра\s|^Топ аниме\s/))
 astar.bz##.a-message
 astar.bz##.content-left > .head-body > div[class*="deo"]
 astar.bz##.content-pravo > .news-list ~ div[class^="center"]
@@ -58,6 +58,7 @@ astar.bz##.share-soc
 v2.vost.pw###dle-content > div.disc-anime.playerInfo > div.contInfo > div.playerAnime > div[style="background: #3cea39; border-top: 1px solid #18d11d; text-align: center; padding: 16px; margin-top: 7px; border-bottom: 1px solid #18d11d;"]
 v2.vost.pw###content > div[style="background: #39afea; border: 1px solid #2170d3; text-align: center; padding: 16px; width: 296px; margin: 0 auto; margin-top: 10px;"]
 v2.vost.pw###dle-content > div[style="width: 330px; margin: 0 auto; margin-top: 10px; border: 1px solid #e7a901;"]
+astar.bz###dle-content > div.plash:has(> a > div.plash-title > span[class="title-top"]:has-text(/(Betchaser|казино)|хентай игру|спонсоров|^БЕСПЛАТНОЕ ОБСЛУЖИВАНИЕ КАРТЫ|\sИГРУ\s|\sодежду\s|\sшутер\s|\sигра\s|^Топ аниме\s/))
 ! (Домены)
 iprxfx.com
 dsp-eu.surfy.dev
