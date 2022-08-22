@@ -107,6 +107,7 @@ aniu.ru###telegram
 ###dle-content > article > div.short-item > div.f-mov-soc > a[href*="https://t.me/"]
 ##div.social-network> div.social-items > a.item-icon[href*="https://twitter.com/"]
 ##div.social-network> div.social-items > a.item-icon[href*="https://www.instagram.com/"]
+###kino-page > div.kino-inner-full.clearfix> div.kino-text > div.player-section > center > div > a[href*="t.me"]
 ! (Исправления)
 @@/advt.$domain=freevpn4you.net
 freevpn4you.net#@##adbanner
