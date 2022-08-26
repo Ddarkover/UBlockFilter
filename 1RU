@@ -66,6 +66,7 @@ ad.qvol.ru
 ! (megafonpro.ru)
 /rkn_shown?serviceid$domain=megafonpro.ru
 megafonpro.ru##div[data-error-code="403"]
+megafonpro.ru##div[data-error-code="404"]
 megafonpro.ru##.v.tu.m
 ! (osnova.news)
 /hidemyname_001.png$domain=osnova.news
@@ -99,9 +100,8 @@ aniu.ru###telegram
 ##.telegram__wraper
 ##div.telegr
 ##a.insta[href*="https://www.instagram.com/"]
-##a.twit[href*="https://twitter.com/"]
 ##a.telegram[href*="https://t.me/"]
-##a.twit[href*="http://twitter.com/"]
+##a.twit[href*="twitter.com"]
 ##a.tiktok[href*="https://www.tiktok.com/"]
 ##a.youtube[href*="https://www.youtube.com/"]
 ###dle-content > article > div.short-item > div.f-mov-soc > a[href*="https://t.me/"]
