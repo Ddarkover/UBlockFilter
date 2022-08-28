@@ -89,6 +89,19 @@ animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset 
 kbmk.kurg.eduru.ru###disc-modal-view-event
 list-org.com##div.main > div.content > div.mt-1.wef1
 yandex.ru##.DistrPopup
+/templates/prodroid//img/telegram.png$domain=prodroid.org
+prodroid.org###app_download_links > a[href*="t.me/"]
+lenov.ru###dle-content > div.col-md-12 > div.full-story > div.full-box > div.col-md-12 > div.full-content > div.add_vkgr
+lenov.ru##a.tg-button[href*="https://t.me/"]
+droeed.com###dle-content > article.full.ignore-select > div.full-in:first-child > noindex:nth-child(6) > div.article_content_social > a[href*="https://t.me/"]
+apkigru.site##main.wrapper.w-100-d.mobile-wrapper > section.full-story-wrapper.flex.flex-d-fwn.flex-md-fww.mt-d-20> div.full_story__main-content > div.full_story__main-container.flex.flex-md-fdc > div.w-100-d> div.full_story__first-content.mb-d-20.flex.flex-d-jcc.flex-s-fdc > ul.flex.flex-s-fdc > li > a.full-story__social.buttons.file-link-svg.mr-d-10.mb-s-20[href*="https://t.me/"]
+5ley.ru###full > div.fone.sect > div.fcols.fx-row > div.fcol-right.fx-1> div.fbtns.icon-left > a.telegram-click[href*="https://t.me/"]
+apkpure.com##div.pwa-dialog[style]
+root-device.ru##a.fdl-btn-help.fx-row[href*="https://t.me/"]
+root-device.ru##a.fdl-btn-help.fx-row[href*="https://vk.com/"]
+prosmart.by###dle-content > article.section.full.ignore-select > div.full-text.video-box.clearfix > div.quote
+crack-portal.ru###post-8108 > div.entry-content > p > a[href*="https://t.me/"]
+happymodapk.ru##div.fixed_bottom_div[style="width: 100%;height: 20%;background-color: #ccf1ce;position: fixed;bottom: 0;z-index: 8"]
 amanvpn.com##div.acc[style]
 ! (Соц.сети)
 /telegram.svg$image
