@@ -89,28 +89,13 @@ animego.online##div.sect:style(padding-top: 10px  !important; margin-top: unset 
 kbmk.kurg.eduru.ru###disc-modal-view-event
 list-org.com##div.main > div.content > div.mt-1.wef1
 yandex.ru##.DistrPopup
-/templates/prodroid//img/telegram.png$domain=prodroid.org
-prodroid.org###app_download_links > a[href*="t.me/"]
 lenov.ru###dle-content > div.col-md-12 > div.full-story > div.full-box > div.col-md-12 > div.full-content > div.add_vkgr
-lenov.ru##a.tg-button[href*="https://t.me/"]
-droeed.com###dle-content > article.full.ignore-select > div.full-in:first-child > noindex:nth-child(6) > div.article_content_social > a[href*="https://t.me/"]
-apkigru.site##main.wrapper.w-100-d.mobile-wrapper > section.full-story-wrapper.flex.flex-d-fwn.flex-md-fww.mt-d-20> div.full_story__main-content > div.full_story__main-container.flex.flex-md-fdc > div.w-100-d> div.full_story__first-content.mb-d-20.flex.flex-d-jcc.flex-s-fdc > ul.flex.flex-s-fdc > li > a.full-story__social.buttons.file-link-svg.mr-d-10.mb-s-20[href*="https://t.me/"]
-5ley.ru###full > div.fone.sect > div.fcols.fx-row > div.fcol-right.fx-1> div.fbtns.icon-left > a.telegram-click[href*="https://t.me/"]
 apkpure.com##div.pwa-dialog[style]
-root-device.ru##a.fdl-btn-help.fx-row[href*="https://t.me/"]
-root-device.ru##a.fdl-btn-help.fx-row[href*="https://vk.com/"]
-prosmart.by###dle-content > article.section.full.ignore-select > div.full-text.video-box.clearfix > div.quote
-crack-portal.ru###post-8108 > div.entry-content > p > a[href*="https://t.me/"]
 happymodapk.ru##div.fixed_bottom_div[style="width: 100%;height: 20%;background-color: #ccf1ce;position: fixed;bottom: 0;z-index: 8"]
 amanvpn.com##div.acc[style]
-##a.btn.btn-info.rounded-pill[href*="t.me/"]
 softobase.com###block-freesoft-reclame1 > div.block-inner.clearfix > div.block-content > div.content.clearfix > div.sidebar-240x400 > div.bunny > a > img[src="/ru/sites/all/themes/bpru/img/b/opera.png"][alt="opera"]
 softobase.com###block-freesoft-reclame1 > div.block-inner.clearfix > div.block-content > div.content.clearfix > div.sidebar-240x400 > div.bunny > a > img[src="/ru/sites/all/themes/bpru/img/b/yandex.png"][alt="yandex"]
-ru.happymod.io##a.btn-telegram[href*="t.me/"]
-dropgame.net##div.wrap > div.wrap-center-f > div.content.fx-col > div.clearfix > main.fcols.fx-row > article.fleft.fx-1 > div.sect.sect-ffirst > div.f-telegram > a[href="https://t.me/drpgm"]
-androidfeel.ru##a.tg_button_a[href="https://t.me/androidfeel"]
 3mod.ru##div.reklamafull
-soft.mydiv.net##a.button-simple[href*="t.me/"]
 wildroid.ru##div[class*=banner]
 /uploads/img/beguchka.jpg$domain=gorod45.tv
 /uploads/img/Kurier.jpg$domain=gorod45.tv
@@ -118,19 +103,34 @@ gorod45.tv##img.mt-5[style="border: 3px solid #e3eef5;"][width="100%"]
 kod.ru##a[href="https://tx.me/d_code"][title="Подписаться в Telegram"] 
 kod.ru##div[class*=NewsDetail_banner_]
 rusgamelife.ru###post-17966 > div.post-wrapper-content > div.section.the_content.has_content > div.section_wrapper > div.the_content_wrapper > div > a[href="/wizz.html"]
-ng-android.ru##main.full_story__mob-wrapper  > section.full-story-wrapper > div.full_story__main-content > div.full_story__main-container > div.full_story__right-column > div.full_story__first-content > a:last-child[href*="t.me/"]
-superandroid.mobi###dle-content > div.fullstory > div.fstory > div
-appda.ru##a.telega_link[href*="t.me/"]
-andro-mod.com##a.icon-l[href*="t.me/"]
-livepda.ru##div.wrapper.ConWrap > div.middle > div.container > div.content > div > div.goDVN > div.file.tab.visible > div > b.telega > a[href*="t.me/"]
 ! (Соц.сети)
 /telegram.svg$image
 /assets/images/footer.png$domain=aniu.ru
 /teleg*.png$domain=animego.space
 /vk.png$domain=aniu.ru
 /t_logo.png$domain=aniu.ru
+/templates/prodroid//img/telegram.png$domain=prodroid.org
 iss.bond/img/other/a*.jpg
 aniu.ru###telegram
+lenov.ru##a.tg-button[href*="https://t.me/"]
+droeed.com###dle-content > article.full.ignore-select > div.full-in > noindex > div.article_content_social > a[href*="https://t.me/"]
+apkigru.site##main.wrapper.w-100-d.mobile-wrapper > section.full-story-wrapper.flex.flex-d-fwn.flex-md-fww.mt-d-20> div.full_story__main-content > div.full_story__main-container.flex.flex-md-fdc > div.w-100-d> div.full_story__first-content.mb-d-20.flex.flex-d-jcc.flex-s-fdc > ul.flex.flex-s-fdc > li > a.full-story__social.buttons.file-link-svg.mr-d-10.mb-s-20[href*="https://t.me/"]
+5ley.ru###full > div.fone.sect > div.fcols.fx-row > div.fcol-right.fx-1> div.fbtns.icon-left > a.telegram-click[href*="https://t.me/"]
+prodroid.org###app_download_links > a[href*="t.me/"]
+root-device.ru##a.fdl-btn-help.fx-row[href*="https://t.me/"]
+root-device.ru##a.fdl-btn-help.fx-row[href*="https://vk.com/"]
+prosmart.by###dle-content > article.section.full.ignore-select > div.full-text.video-box.clearfix > div.quote
+crack-portal.ru###post-8108 > div.entry-content > p > a[href*="https://t.me/"]
+ru.happymod.io##a.btn-telegram[href*="t.me/"]
+dropgame.net##div.wrap > div.wrap-center-f > div.content.fx-col > div.clearfix > main.fcols.fx-row > article.fleft.fx-1 > div.sect.sect-ffirst > div.f-telegram > a[href="https://t.me/drpgm"]
+androidfeel.ru##a.tg_button_a[href="https://t.me/androidfeel"]
+soft.mydiv.net##a.button-simple[href*="t.me/"]
+ng-android.ru##main.full_story__mob-wrapper  > section.full-story-wrapper > div.full_story__main-content > div.full_story__main-container > div.full_story__right-column > div.full_story__first-content > a:last-child[href*="t.me/"]
+superandroid.mobi###dle-content > div.fullstory > div.fstory > div
+appda.ru##a.telega_link[href*="t.me/"]
+andro-mod.com##a.icon-l[href*="t.me/"]
+livepda.ru##div.wrapper.ConWrap > div.middle > div.container > div.content > div > div.goDVN > div.file.tab.visible > div > b.telega > a[href*="t.me/"]
+##a.btn.btn-info.rounded-pill[href*="t.me/"]
 ##.telegram__wraper
 ##div.telegr
 ##a.insta[href*="https://www.instagram.com/"]
