@@ -17,6 +17,7 @@ org,net##a[style*="data:image"]
 org,net##div[style="height: 250px; overflow: hidden;"]
 org,net##+js(remove-class, active-brand, body)
 org,net##+js(set-constant, window.abc, false)
+/hdrezka/images/slava.jpg
 !(Аниме)
 ! (Animestar)
 /images/*Dota2*.jpg
