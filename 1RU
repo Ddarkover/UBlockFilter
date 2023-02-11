@@ -63,6 +63,7 @@ v2.vost.pw###dle-content > div[style="width: 330px; margin: 0 auto; margin-top: 
 astar.bz###dle-content > div.plash:has(> a > div.plash-title > span[class="title-top"]:has-text(/(Betchaser|казино)|хентай игру|спонсоров|^БЕСПЛАТНОЕ ОБСЛУЖИВАНИЕ КАРТЫ|\sИГРУ\s|\sодежду\s|\sшутер\s|\sигра\s|^Топ аниме\s/))
 sslkn.*###list_videos_most_recent_videos_items > div.spot:nth-child(3)
 sslkn.*##div.sticker_wrapper.sticker_viewport:last-child > div.sticker_container.bmALFqa-bounce-up:last-child
+sslkn.*##div.sticker_wrap:nth-child(4)
 ! (Домены)
 iprxfx.com
 dsp-eu.surfy.dev
