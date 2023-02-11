@@ -79,6 +79,8 @@ html5play.ru##.sgpb-popup-dialog-main-div-wrapper
 repack.me##div.alert[style="margin: 0px 0px 5px 0px; padding: 5px 10px; border:solid 1px #d8d8d8; font-weight: bold;"]
 freeopenvpn.org##center> div > div[style="display: block; width: 336px; height: 620px; float: left;"]
 iplogger.org###cookies
+sslkn.*###list_videos_most_recent_videos_items > div.spot:nth-child(3)
+sslkn.*##div.sticker_wrapper.sticker_viewport:last-child > div.sticker_container.bmALFqa-bounce-up:last-child
 animego.space##div.wrapper:style(top: 0 !important)
 ipspeed.info##center > div:nth-child(6) > div.area:last-child > div[style*="float: left; width: 300px; height: 250px; margin: 20px"]
 ururuanime.online##div.main-wrap> div.container > div.content > div.share-block-wrap
