@@ -136,6 +136,7 @@ appda.ru##a.telega_link[href*="t.me/"]
 andro-mod.com##a.icon-l[href*="t.me/"]
 livepda.ru##div.wrapper.ConWrap > div.middle > div.container > div.content > div > div.goDVN > div.file.tab.visible > div > b.telega > a[href*="t.me/"]
 ##a.btn.btn-info.rounded-pill[href*="t.me/"]
+vpered.online###post-2822 > div.entry-content.clearfix:nth-child(2) > section.wpb-content-wrapper:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.vc_column_container.vc_col-sm-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element:nth-child(2) > div.wpb_wrapper > p > a[href*="https://t.me/"]
 ##.telegram__wraper
 ##div.telegr
 ##a.insta[href*="https://www.instagram.com/"]
